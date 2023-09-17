@@ -61,11 +61,3 @@ To utilize the Grin interpreter, follow the instructions below:
 2. Ensure Python 3.x is installed on your system.
 3. Open the project in an appropriate IDE (e.g., PyCharm).
 4. Run the `project3.py` script to initiate the interpreter.
-
-## Contribution Guidelines
-
-Contributions to the Grin interpreter are welcome! Refer to the CONTRIBUTING.md file for guidelines on contributing to the project.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
